@@ -36,7 +36,7 @@
 <br />
 <br />
 
-![devparkse's GitHub stats](https://github-readme-stats.vercel.app/api?username=devparkse&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devparkse&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devparkse&layout=compact)
 
 <!--
