@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f57584&height=300&section=header&text=Hi!%20I'm%20Sieun%20Park&fontSize=70)
 
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaeparic&count_bg=%23E3C7A6&title_bg=%23555555&icon=microsoft.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevparkse&count_bg=%23E3C7A6&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23FF0000&title=hits&edge_flat=false"/></a>
 </div>
 
 <br />
